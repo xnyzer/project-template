@@ -1,5 +1,12 @@
 # project-template
 
+> **Archived.** This template now lives inside the coding-kit plugin:
+> https://github.com/xnyzer/coding-kit (`plugins/coding-kit/template/`). Since coding-kit
+> 1.0.0, skills and template share one version. Projects created from this repository
+> keep working: `/update-conventions` resolves their 0.x stamp against the frozen
+> project-template section of the coding-kit CHANGELOG. This repository stays read-only
+> so the "generated from" links of existing projects remain valid.
+
 A stack-agnostic GitHub project template: one **core** every project gets, plus per-stack
 **modules**. It is the single source of truth for project scaffolding and conventions,
 designed to be instantiated by the `/new-project` skill from
